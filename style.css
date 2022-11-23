@@ -1,0 +1,59 @@
+body {
+    background: #3d73a0d3
+}
+
+
+h1 {
+    font-size: 60px; text-align: center; background: #CCCCCC; color: #6fb82b
+}
+
+
+h2 {
+    font-size: 60px; text-align: center; background: #CCCCCC; color: #6fb82b
+}
+
+
+h3 {
+    font-size: 60px; text-align: center; background: #CCCCCC; color: #6fb82b
+}
+
+
+h4 {
+    font-size: 60px; text-align: center; background: #CCCCCC; color: #6fb82b
+}
+
+h5 {
+    font-size: 60px; text-align: center; background: #CCCCCC; color: #6fb82b
+}
+
+h6 {
+    font-size: 60px; text-align: center; background: #CCCCCC; color: #6fb82b
+}
+
+
+#bolo {
+    width: 50%;
+}
+
+#croissant {
+    width: 50%;
+}
+
+#paes {
+    width: 50%;
+}
+
+#doces {
+    width: 50%;
+}
+
+
+p {
+    text-align: center
+}
+
+
+
+body {
+    background: #3d73a0d3
+}
